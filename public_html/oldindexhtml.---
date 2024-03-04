@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,height=device-height, minimum-scale=1.0, maximum-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link href="inset/favicon.ico" rel="shortcut icon">
+    <title>DEYSA - Soluciones para empresas</title>
+
+    <!--jQuery-->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Font Icon -->
+    <link href="css/dnngo-font-icon.css" rel="stylesheet" type="text/css">
+
+    <!--Google Fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900&display=swap&subset=latin-ext" rel="stylesheet">
+
+    <!-- Template base -->
+    <link href="css/theme.css" rel="stylesheet" type="text/css">
+    <link href="css/header.css" rel="stylesheet" type="text/css">
+    <link href="css/footer.css" rel="stylesheet" type="text/css">
+
+    <!-- Template component -->
+    <link href="css/component/css3-animation.css" rel="stylesheet" type="text/css">
+    <link href="css/component/testimonial.css" rel="stylesheet" type="text/css">
+    <link href="css/component/carousel.css" rel="stylesheet" type="text/css">
+    <link href="css/component/chart.css" rel="stylesheet" type="text/css">
+    <link href="css/component/number.css" rel="stylesheet" type="text/css">
+    <link href="css/component/imagebox.css" rel="stylesheet" type="text/css">
+    <link href="css/component/loaders.css" rel="stylesheet" type="text/css">
+    <link href="css/component/flip-box.css" rel="stylesheet" type="text/css">
+
+    <!-- Template elements -->
+    <link href="css/elements/list.css" rel="stylesheet" type="text/css">
+    <link href="css/elements/promo-boxes.css" rel="stylesheet" type="text/css">
+    <link href="css/elements/list.css" rel="stylesheet" type="text/css">
+    <link href="css/elements/icon-box.css" rel="stylesheet" type="text/css">
+    <link href="css/elements/button.css" rel="stylesheet" type="text/css">
+    <link href="css/elements/form-style.css" rel="stylesheet" type="text/css">
+
+    <!-- Template pages -->
+    <link href="css/demos/homepage09.css" rel="stylesheet" type="text/css">
+
+    <!-- Template color -->
+    <link href="css/theme-color/orange.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <!-- Loading -->
+    <div class="page-loaders">
+            <div class="loaders">
+                <div class="loader-inner ball-clip-rotate-pulse loader-accent">
+                    <div></div>
+                    <div></div>
+                </div>
+            </div>
+        </div>
+        <!-- Loading End -->
+    <div class="theme-main">
+        <div id="wrapper">
+
+            <div class="contacto">
+              <a target="_blank" href="https://wa.me/5491161254174?text=Hola, me%20gustaría%20obtener%20información%20sobre%20sus%20servicios" class="btn wa"><i class="fa fa-whatsapp"></i> <span>whatsapp</span></a>
+            </div>
+
+            <!-- Header -->
+            <header class="header-bg roll-menu" data-top="250">
+                <div class="hidden-xs hidden-sm headerBox ">
+                    <div class="shade"></div>
+                    <div class="container">
+                        <div id="megamenuWidthBox"></div>
+                        <div class="clearfix">
+                            <div class="header-bottom">
+                                <div class="header-left">
+                                  <div class="logo-main">
+                                    <div class="Logobox">
+                                        <a title="Logo" href="index.html"><img src="inset/final-logo-web-white.png" srcset="inset/final-logo-web-white-2x.png 2x" alt="Logo" /></a>
+                                    </div>
+                                    <div class="FixedLogoPane">
+                                        <a title="Logo" href="index.html"> <img src="inset/final-logo-web-white.png" srcset="inset/final-logo-web-white-2x.png 2x" alt="Logo" /></a>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="header-right text-right">
+                                    <nav class="nav-box clearfix menu-hover-line menu-not-accent">
+                                        <div class="menu-main">
+                                            <div id="dng-megamenu">
+                                                <ul class="primary-structure">
+                                                    <li class="current"> <a href="index.html" title="Home"><span>Inicio</span></a></li>
+                                                    <li><a href="servicios.html" title="Servicios"><span>Servicios</span></a></li>
+                                                    <li><a href="preguntas-frecuentes.html" title="Preguntas Frecuentes"><span>Preguntas Frecuentes</span></a></li>
+                                                    <li><a href="equipamientos.html" title="Equipamientos"><span>Equipamientos</span></a></li>
+                                                    <li><a href="novedades.html" title="Blog"><span>Blog</span></a></li>
+                                                    <li>
+                                                      <div class="telefonos">
+                                                        <span class="dg-ico size-xs tel-icono"><i class="fa fa-phone"></i></span>
+                                                        <div class="telefono-texto">
+                                                          <p>011 15 6125-4174</p>
+                                                          <p>011 15 5001-8539</p>
+                                                        </div>
+                                                      </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </nav>
+                                </div>
+                            </div>
+                          </div>
+                      </div>
+                  </div>
+            </header>
+            <!-- Header End -->
+            <!-- Mobile Header -->
+            <div class="visible-xs visible-sm mobile-header">
+                <div class="mobile-nav">
+                    <div class="container">
+                        <div class="clearfix">
+                            <div class="mobile-navbox">
+                                <div class="mobile-logo-main">
+                                    <div class="Logobox">
+                                        <a title="Logo" href="index.html"><img src="inset/final-logo-web-2x.png" alt="Logo DEySA" /></a>
+                                    </div>
+                                </div>
+                                <div class="mobile-right-icon"> <span class="fa fa-reorder" id="ico-menu-mobile"></span> </div>
+                                <div id="dng-megamenu-mobile" class="mobile-menu "></div>
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+            <!-- Mobile End -->
+        <!--SLIDER PARA DESKTOP/NOTEBOOK -->    
+        <div id="carousel-1" class="carousel slide hidden-sm hidden-xs" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carousel-1" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-1" data-slide-to="1"></li>
+                <li data-target="#carousel-1" data-slide-to="2"></li>
+                <li data-target="#carousel-1" data-slide-to="3"></li>
+           </ol>
+
+           <div class="carousel-inner">
+                <div class="item active">
+                  <div class="home09-bg02 pb-40">
+                      <div class="container pt-10 pb-10">
+                          <div class="row">
+                            <div class="col-sm-12 animation delay1 bounceInLeft">
+                              <div class="pt-60 pl-30">
+                                <h3>Bienvenidos a DEYSA</h3>
+                                <p class="pb-10">Somos especialistas en la desobstrucción y el mantenimiento<br /> integral de cañerías y sistemas de desagües para<br /> empresas, comercios e industrias</p>
+                                <p class="mt-10"><a href="mailto:info@deysa.com.ar" class="dg-btn-1 radius-3px btn-accent bg-orange color-black">conócenos</a></p>
+                              </div>
+                              <img id="mr-destapador-1" src="img/home-principal-invertido-slider.png" alt="Bienvenidos a DEYSA" />
+                             </div>
+                          </div>
+                      </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="home09-bg02 pb-40">
+                      <div class="container pt-10 pb-10">
+                          <div class="row">
+                            <div class="col-sm-12 animation delay1 bounceInLeft">
+                              <div class="pt-60 pl-30">
+                                <h3>Respuesta inmediata</h3>
+                                <p class="pb-10">Ofrecemos resultados a medida,<br /> de forma rápida, segura y efectiva.</p>
+                                <p class="mt-10"><a href="mailto:info@deysa.com.ar" class="dg-btn-1 radius-3px btn-accent bg-orange color-black">conócenos</a></p>
+                              </div>
+                              <img id="mr-destapador-1" src="img/home-mantenimiento-saneamiento-slider.png" alt="Somos Deysa" />
+                            </div>
+                          </div>
+                      </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="home09-bg02 pb-40">
+                      <div class="container pt-10 pb-10">
+                          <div class="row">
+                            <div class="col-sm-12 animation delay1 bounceInLeft">
+                              <div class="pt-60 pl-30">
+                                <h3>Garantía de confianza</h3>
+                                <p class="pb-10">Nos avalan más de 30 años de experiencia<br /> junto a los mejores profesionales del mercado.</p>
+                                <p class="mt-10"><a href="mailto:info@deysa.com.ar" class="dg-btn-1 radius-3px btn-accent bg-orange color-black">conócenos</a></p>
+                              </div>
+                              <img id="mr-destapador-1" src="img/home-cambio-reparacion-slider.png" alt="Somos Deysa" />
+                            </div>
+                          </div>
+                      </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="home09-bg02 pb-40">
+                      <div class="container pt-10 pb-10">
+                          <div class="row">
+                            <div class="col-sm-12 animation delay1 bounceInLeft">
+                              <div class="pt-60 pl-30">
+                                <h3>Compromiso ecológico</h3>
+                                <p class="pb-10">Apoyamos el desarrollo sustentable de las empresas<br /> con la gestión ambiental de sus residuos</p>
+                                <p class="mt-10"><a href="mailto:info@deysa.com.ar" class="dg-btn-1 radius-3px btn-accent bg-orange color-black">conócenos</a></p>
+                              </div>
+                              <img id="mr-destapador-1" src="img/home-transporte-disposicion-slider.png" alt="Somos Deysa" />
+                            </div>
+                          </div>
+                      </div>
+                  </div>
+                </div>
+           </div>
+           <a class="left carousel-control" href="#carousel-1" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Anterior</span>
+           </a>
+           <a class="right carousel-control" href="#carousel-1" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Siguiente</span>
+           </a>
+        </div>
+
+        <!--SLIDER PARA TABLETS Y MOVILES -->
+        <div id="carousel-2" class="carousel slide hidden-md hidden-lg hidden-xl" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carousel-2" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-2" data-slide-to="1"></li>
+                <li data-target="#carousel-2" data-slide-to="2"></li>
+                <li data-target="#carousel-2" data-slide-to="3"></li>
+           </ol>
+
+           <div class="carousel-inner">
+                <div class="item active">
+                  <div class="home09-bg-mobile pb-40">
+                    <div class="container pt-10 pb-40">
+                      <div class="row animation delay1 bounceInLeft">
+                        <div class="col-sm-12 text-center">
+                            <img id="mr-destapador-mobile" src="img/home-principal-invertido-slider.png" alt="Bienvenidos a DEYSA" />
+                        </div>
+                        <div class="col-sm-12 text-center">
+                            <div class="pt-40">
+                              <h3>Bienvenidos a DEYSA</h3>
+                              <p class="pb-10">Somos especialistas en la desobstrucción y el mantenimiento integral de cañerías y sistemas de desagües para empresas, comercios e industrias</p>
+                              <p class="mt-10"><a href="mailto:info@deysa.com.ar" class="dg-btn-1 radius-3px btn-accent bg-orange color-black">conócenos</a></p>
+                            </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="home09-bg-mobile pb-40">
+                    <div class="container pt-10 pb-40">
+                      <div class="row animation delay1 bounceInLeft">
+                        <div class="col-sm-12 text-center">
+                            <img id="mr-destapador-mobile" src="img/home-mantenimiento-saneamiento-slider.png" alt="Bienvenidos a DEYSA" />
+                        </div>
+                        <div class="col-sm-12 text-center">
+                            <div class="pt-40">
+                              <h3>Respuesta Inmediata</h3>
+                              <p class="pb-10">Ofrecemos resultados a medida, de forma rápida, segura y efectiva.</p>
+                              <p class="mt-10"><a href="mailto:info@deysa.com.ar" class="dg-btn-1 radius-3px btn-accent bg-orange color-black">conócenos</a></p>
+                            </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="home09-bg-mobile pb-40">
+                    <div class="container pt-10 pb-40">
+                      <div class="row animation delay1 bounceInLeft">
+                        <div class="col-sm-12 text-center">
+                            <img id="mr-destapador-mobile" src="img/home-cambio-reparacion-slider.png" alt="Bienvenidos a DEYSA" />
+                        </div>
+                        <div class="col-sm-12 text-center">
+                            <div class="pt-40">
+                              <h3>Garantía de confianza</h3>
+                              <p class="pb-10">Nos avalan más de 30 años de experiencia junto a los mejores profesionales del mercado.</p>
+                              <p class="mt-10"><a href="mailto:info@deysa.com.ar" class="dg-btn-1 radius-3px btn-accent bg-orange color-black">conócenos</a></p>
+                            </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="home09-bg-mobile pb-40">
+                    <div class="container pt-10 pb-40">
+                      <div class="row animation delay1 bounceInLeft">
+                        <div class="col-sm-12 text-center">
+                            <img id="mr-destapador-mobile" src="img/home-transporte-disposicion-slider.png" alt="Bienvenidos a DEYSA" />
+                        </div>
+                        <div class="col-sm-12 text-center">
+                            <div class="pt-40">
+                              <h3>Compromiso ecológico</h3>
+                              <p class="pb-10">Apoyamos el desarrollo sustentable de las empresas con la gestión ambiental de sus residuos</p>
+                              <p class="mt-10"><a href="mailto:info@deysa.com.ar" class="dg-btn-1 radius-3px btn-accent bg-orange color-black">conócenos</a></p>
+                            </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+           </div>
+           <a class="left carousel-control" href="#carousel-2" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Anterior</span>
+           </a>
+           <a class="right carousel-control" href="#carousel-2" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Siguiente</span>
+           </a>
+        </div>
+
+            <!--Content -->
+            <section id="page-content">
+              <!-- Upgrade On A Regular Basis -->
+              <div class="home09-01 fluid-container pt-20">
+                  <div class="row col-vertical-center animation delay3 zoomIn">
+                      <div class="col-md-4 col-sm-4 col-lg-4 pr-20" id="celu"><img alt="Photo" src="img/iphone2.png" class="img-responsive"></div>
+                      <div class="col-md-8 col-lg-8 col-sm-8 pt-20 pl-40">
+                          <div class="col-md-12 col-lg-12 pb-20 text-center">
+                            <h1 class="dg-title37">Pedí tu diagnóstico online o presencial, <br /> sin costo y en menos de 24hs</h1>
+                            <h3 class="pb-20">Completá tus datos y uno de nuestros representantes<br /> se pondrá en contacto para una mejor atención</h3>
+                            <p><a href="mailto:info@deysa.com.ar&subject=Solicito Cotización" class="dg-btn-1 radius-3px btn-accent">COTIZAR AHORA</a></p>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <!-- Upgrade On A Regular Basis End -->
+              <!-- Full Area -->
+              <ul class="home09-list color-white animation delay3 fadeIn">
+                  <li>
+                    <div class="flip-box flip-box06">
+                      <div class="rotate">
+                          <div class="front">
+                              <div class="pic"><img src="img/home-mantenimiento-saneamiento-master.png" Alt="Mantenimiento integral y Saneamiento de Cañerías" /></div>
+                          </div>
+                          <div class="back">
+                              <div class="center">
+                                  <div class="pic"><img src="img/home-mantenimiento-saneamiento-hover.png" Alt="Desobstrucción y Limpieza en Cañerías de Desagües" /></div>
+                                  <div class="datos text-left">
+                                    <h4 class="dg-title18">Desobstrucción y Limpieza en Cañerías de Desagües</h4>
+                                    <p class="mt-20"><a href="servicios.html#desobstruccion-limpieza" title="" class="dg-btn-1 radius-3px btn-accent">Conozca más</a></p>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
+                    </div>
+                  </li>
+                  
+                  <li>
+                    <div class="flip-box flip-box06">
+                      <div class="rotate">
+                          <div class="front">
+                              <div class="pic"><img src="img/home-construccion-refaccion-master.png" Alt="Servicios de Mantenimiento y Construcción" /></div>
+                          </div>
+                          <div class="back">
+                            <div class="center">
+                                <div class="pic"><img src="img/home-construccion-refaccion-hover.png" Alt="Servicios de Mantenimiento y Construcción" /></div>
+                                <div class="datos text-left">
+                                  <h4 class="dg-title18">Servicios de Mantenimiento y Construcción</h4>
+                                  <p class="mt-20"><a href="servicios.html#mantenimiento-construccion" title="" class="dg-btn-1 radius-3px btn-accent">Conozca más</a></p>
+                                </div>
+                            </div>
+                          </div>
+                      </div>
+                    </div>
+                  </li>
+
+                  <li>
+                    <div class="flip-box flip-box06">
+                      <div class="rotate">
+                          <div class="front">
+                              <div class="pic"><img src="img/home-transporte-disposicion-master.png" Alt="Transporte y Disposición Final de Residuos" /></div>
+                          </div>
+                          <div class="back">
+                            <div class="center">
+                                <div class="pic"><img src="img/home-transporte-disposicion-hover.png" Alt="Transporte y Disposición Final de Residuos" /></div>
+                                <div class="datos text-left">
+                                  <h4 class="dg-title18">Transporte y Disposición Final de Residuos</h4>
+                                  <p class="mt-20"><a href="servicios.html#transporte-disposicion" title="Contáctenos" class="dg-btn-1 radius-3px btn-accent">Conozca más</a></p>
+                                </div>
+                            </div>
+                          </div>
+                      </div>
+                    </div>
+                  </li>
+
+                  <li>
+                    <div class="flip-box flip-box06">
+                      <div class="rotate">
+                          <div class="front">
+                              <div class="pic"><img src="img/home-mantenimiento-tanques-master.png" Alt="Limpieza y Mantenimiento Integral de Tanques de Agua" /></div>
+                          </div>
+                          <div class="back">
+                            <div class="center">
+                                <div class="pic"><img src="img/home-mantenimiento-tanques-hover.png" Alt="Limpieza y Mantenimiento Integral de Tanques de Agua" /></div>
+                                <div class="datos text-left">
+                                  <h4 class="dg-title18">Limpieza y Mantenimiento Integral de Tanques de Agua</h4>
+                                  <p class="mt-20"><a href="servicios.html#mantenimiento-tanques" title="" class="dg-btn-1 radius-3px btn-accent">Conozca más</a></p>
+                                </div>
+                            </div>
+                          </div>
+                      </div>
+                    </div>
+                  </li>
+                  
+                  <li>
+                    <div class="flip-box flip-box06">
+                      <div class="rotate">
+                          <div class="front">
+                              <div class="pic"><img src="img/home-cambio-reparacion-master.png" Alt="Instalación y Saneamiento de Cañerías" /></div>
+                          </div>
+                          <div class="back">
+                            <div class="center">
+                                <div class="pic"><img src="img/home-cambio-reparacion-hover.png" Alt="Instalación y Saneamiento de Cañerías" /></div>
+                                <div class="datos text-left">
+                                  <h4 class="dg-title18">Instalación y Saneamiento de Cañerías</h4>
+                                  <p class="mt-20"><a href="servicios.html#instalacion-saneamiento" title="" class="dg-btn-1 radius-3px btn-accent">Conozca más</a></p>
+                                </div>
+                            </div>
+                          </div>
+                      </div>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="flip-box flip-box06">
+                      <div class="rotate">
+                          <div class="front">
+                              <div class="pic"><img src="img/home-principal-master.png" Alt="Todos los Servicios" /></div>
+                          </div>
+                          <div class="back">
+                            <div class="center">
+                                <div class="pic"><img src="img/home-principal-hover.png" Alt="Todos los Servicios" /></div>
+                                <div class="datos text-left">
+                                  <h4 class="dg-title18">Todos los Servicios</h4>
+                                  <p class="mt-20"><a href="servicios.html" title="Conozca más" class="dg-btn-1 radius-3px btn-accent">Conozca más</a></p>
+                                </div>
+                            </div>
+                          </div>
+                      </div>
+                    </div>
+                  </li>
+              </ul>
+              <!-- Full Area End -->
+              <div class="home09-01 fluid-container pt-20">
+                  <div class="row">
+                    <div class="col-12 pt-20">
+                        <h3 class="dg-title37 text-center">Clientes que nos eligen</h3>
+                        <ul class="clients pt-40 pb-40">
+                            <li class="animation flip">
+                                <a title="Logo" href="#"><img alt="Logo" class="img-responsive pb-10 pl-5 pr-5" src="img/1.png"></a>
+                            </li>
+                            <li class="animation flip">
+                                <a title="Logo" href="#"><img alt="Logo" class="img-responsive pb-10 pl-5 pr-5" src="img/2.png"></a>
+                            </li>
+                            <li class="animation flip">
+                                <a title="Logo" href="#"><img alt="Logo" class="img-responsive pb-10 pl-5 pr-5" src="img/3.png"></a>
+                            </li>
+                            <li class="animation flip">
+                                <a title="Logo" href="#"><img alt="Logo" class="img-responsive pb-10 pl-5 pr-5" src="img/4.png"></a>
+                            </li>
+                            <li class="animation flip">
+                                <a title="Logo" href="#"><img alt="Logo" class="img-responsive pb-10 pl-5 pr-5" src="img/5.png"></a>
+                            </li>
+                            <li class="animation flip">
+                                <a title="Logo" href="#"><img alt="Logo" class="img-responsive pb-10 pl-5 pr-5" src="img/6.png"></a>
+                            </li>
+                        </ul>
+                    </div>
+                  </div>
+                </div>
+              <!-- Promo Boxes -->
+              <div class="home09-bg06 mt-60 color-white">
+                  <div class="fluid-container pt-60 pb-60">
+                      <h1 class="mb-30 text-center">Envianos tu contacto para un diagnóstico gratuito</h1>
+                      <form>
+                          <ul class="dg-form-content08">
+                              <li>
+                                  <div class="form-row">
+                                      <input id="name" type="text" name="flvname" class="flvname" placeholder="Nombre" required>
+                                  </div>
+                              </li>
+                              <li>
+                                  <div class="form-row">
+                                      <input id="company" type="text" name="flvname" class="flvname" placeholder="Empresa" required>
+                                  </div>
+                              </li>
+                              <li>
+                                  <div class="form-row">
+                                      <input id="Email" type="text" name="flvname" class="flvname" placeholder="E-mail" required>
+                                  </div>
+                              </li>
+                              <li>
+                                  <input type="submit" name="submit" title="SOLICÍTELO AHORA" value="SOLICÍTELO AHORA" class="btn dg-btn-1 btn-orange color-white">
+                              </li>
+                          </ul>
+                      </form>
+                  </div>
+              </div>
+              <!-- Promo Boxes End -->
+              <div class="home09-01 container mt-40 mb-60">
+                  <div class="row col-vertical-bottom">
+                      <div class="col-sm-2 animation delay1 fadeInLeftBig"><img alt="Ilustracion" src="img/detalle.png" class="img-responsive"></div>
+                      <div class="col-sm-10">
+                          <h3 class="dg-title animation delay1 fadeInLeft">Contamos con un sistema altamente eficaz</h3>
+                          <big class="animation delay1 fadeInRight">¡Compruébelo por usted mismo! Póngase en contacto con nosotros. Cuéntenos las dificultades<br/> que se le presentan en sus cañerías, con gusto le brindaremos una solución posible.</big>
+                      </div>
+                  </div>
+              </div>
+          </section>
+          <!--Content End-->
+          <!-- Footer -->
+          <footer class="footer-box footer-04">
+              <div class="footer-top text-center pt-60">
+                  <div class="container clearfix">
+                      <!-- Logo -->
+                      <div class="logo">
+                          <a title="Logo" href="#"><img src="inset/final-logo-web-white.png" srcset="inset/final-logo-web-white-2x.png 2x" alt="Logo" /></a>
+                      </div>
+                      <!-- Logo End -->
+                      <!-- Menu -->
+                      <ul class="footer-menu">
+                          <li><a href="index.html" title="Home">Inicio</a></li>
+                          <li><a href="servicios.html" title="Servicios">Servicios</a></li>
+                          <li><a href="preguntas-frecuentes.html" title="Preguntas Frecuentes">Preguntas Frecuentes</a></li>
+                          <li><a href="equipamientos.html" title="Equipamientos">Equipamientos</a></li>
+                          <li><a href="novedades.html" title="Novedades">Novedades</a></li>
+                      </ul>
+                      <!-- Menu End -->
+                  </div>
+              </div>
+              <div class="footer-bottom">
+                  <!-- Copyright -->
+                  <div class="container clearfix"><a href="#" title="Políticas de privacidad">Políticas de privacidad</a><span class="sep">|</span><a href="#" title="Términos y Condiciones">Términos y Condiciones</a>
+                  </div>
+                  <!-- Copyright End -->
+              </div>
+          </footer>
+          <!-- Footer End -->
+
+          <div id="to-top" class="backtop01"><span></span></div>
+
+        </div>
+
+        <!--bootstrap-->
+        <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+        <!-- Theme Base, Components and Settings -->
+        <script src="js/theme-functions.js"></script>
+
+        <!-- Custom js file -->
+        <script src="js/custom.js"></script>
+
+</body>
+
+</html>

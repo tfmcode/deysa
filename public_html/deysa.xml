@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+============================================================================
+Caracteres Especiales
+============================================================================
+'¿' == <br> => deja una linea de espacio
+'#' == <br><br>  => deja dos linea de espacio
+'(' == <b> => abre Negrita
+')' == </b> => cierra Negrita
+
+============================================================================
+Medida de las imagenes
+============================================================================
+710x500
+
+-->
+
+
+
+
+
+
+<noticias>
+
+<noticia>
+<id>13</id>
+<link>ampliar_novedad.php?op=13</link>
+<foto1>instalacion_caudalimetros.png</foto1>
+<video>0</video>
+<titulo>Que son los caudalímetros</titulo>
+<tags>Deysa, caudalimetros, instalacion de caudalimetros</tags>
+<dia>09</dia>
+<mes>09</mes>
+<año>2021</año>
+<bajada></bajada>
+<desarrollo>
+(¿Que son los caudalímetros?)¿¿
+Un caudalímetro, medidor de caudal, medidor de flujo o flujómetro es un instrumento de medición para la medición de caudal o gasto volumétrico de un fluido o para la medición del gasto másico.¿Estos aparatos suelen colocarse en línea con la tubería que transporta el fluido.
+Los caudalímetros de chorro múltiple  son ideales para aplicaciones comerciales e industriales.¿El diseño sencillo de estos caudalímetros permite una precisión más que aceptable con amplios rangos de caudal, incluso en aplicaciones de bajo caudal.¿El indicador se encuentra herméticamente accionado y herméticamente sellado por lo que no tendrá fugas ni se empañará y se encuentra completamente separado del agua.¿Estos medidores de agua están diseñados para una larga vida útil y un funcionamiento libre de mantenimiento.¿¿
+(Aplicaciones comunes:)¿¿
+- Medición de consumo residencial¿
+- Medición de volumen para tratamiento de aguas¿
+- Medición en obras hidráulicas¿
+- Monitoreo de sistemas de riego¿
+- Medición de agua en procesos industriales¿
+- Medición de volumen de agua para lavaderos comerciales e industriales¿¿
+Gracias por seguir confiando en nuestros servicios!¿¿
+(Consultenos!)
+</desarrollo>
+</noticia>    
+    
+    
+<noticia>
+<id>12</id>
+<link>ampliar_novedad.php?op=12</link>
+<foto1>instalacion-de-tapas-en-tanques.mp4</foto1>
+<video>1</video>
+<titulo>Construcción de Cámaras Sépticas</titulo>
+<tags>Deysa, camaras septicas, sistema de desagües, construccion de camaras</tags>
+<dia>11</dia>
+<mes>06</mes>
+<año>2021</año>
+<bajada></bajada>
+<desarrollo>
+Construcciones de cámaras sépticas para los distintos sistemas de los desagües.
+Servicios realizados en predios de La Nueva Metropol (estaciones de colectivos).¿¿
+Gracias por seguir confiando en nuestros servicios!¿¿
+(Consultenos!)
+</desarrollo>
+</noticia>    
+
+    
+    
+<noticia>
+<id>11</id>
+<link>ampliar_novedad.php?op=11</link>
+<foto1>barros-con- hidrocaburo.png</foto1>
+<video>0</video>
+<titulo>Barros con Hidrocarburo</titulo>
+<tags>Deysa, barros, hidrocarburos, barros con hidrocarburo</tags>
+<dia>18</dia>
+<mes>03</mes>
+<año>2021</año>
+<bajada></bajada>
+<desarrollo>
+Residuos Peligrosos: Barros con Hidrocarburos¿¿
+La tarea relacionada al lavado de vehículos genera obligatoriamente un tipo de barro contaminado proveniente de los efluentes líquidos, esta consideración se da principalmente la carga contaminante y el caudal de líquidos. Estos residuos se encuentran compuestos por los sólidos que se desprenden de la carrocería del vehículo, se puede considerar una parte mayor conformada en arenas y otra parte más pequeña conformada por residuos sólidos y sedimentos de características como ser sustancias químicas que flotan en suspensión (barros contaminados). ¿¿
+Los sólidos al ser más pesados que el agua sufrirán una separación física por decantación. Algunas sustancias se mantendrán en la superficie flotando, aquí están constituidas en gran cantidad por hidrocarburos de distinto peso molecular, como ser: aceites a naftas, derivados de combustibles, y otros residuos livianos de combustión, etc. ¿¿
+Esta categoría de residuos debe ser manipulada de forma adecuada. De lo contrario generarán inconvenientes en las cañerías y desagües por donde drenan los residuos, como ser cloacas, y conductos pluviales. ¿¿
+En forma frecuente las arenas y los barros provocan importantes obstrucciones, provocando una reducción del diámetro de la cañería y los desagües. Como consecuencia importante del problema de la poca contención de estos residuos (barros con hidrocarburos), presentan un riesgo inflamable y de explosión por la acumulación de gases, aparte de generar reclamos por parte de los usuarios que se encuentran conectados al sistema de cañerías, al sentir el olor proveniente de los componentes más volátiles. ¿¿
+Por último, los barros con hidrocarburos afectan negativamente al funcionamiento de las instalaciones de depuración y medio ambiente al mal funcionamiento de las instalaciones de depuración y al medio ambiente. ¿¿
+Siempre se puede evitar esta problemática de los barros con hidrocarburos adoptando medidas de tratamiento necesarias para su correspondiente proceso de tratamiento. Retirando y transportando estos barros con hidrocarburos hacia las plantas de tratamiento es la solución al problema.¿¿
+    Gracias por seguir confiando en nuestros servicios!¿¿
+(Consultenos!)
+</desarrollo>
+</noticia>    
+    
+    
+    
+<noticia>
+<id>10</id>
+<link>ampliar_novedad.php?op=10</link>
+<foto1>destapacion-mecanizada-deysa.jpg</foto1>
+<video>0</video>
+<titulo>Destapación Mecanizada</titulo>
+<tags>Deysa, Destapacion Mecanizada, Destapcion de Cañerias</tags>
+<dia>08</dia>
+<mes>01</mes>
+<año>2021</año>
+<bajada></bajada>
+<desarrollo>
+Proceso en la Destapación Mecanizada de cañerías.¿¿
+    1. Introducimos un cable de acero tipo sonda resorte flexible con una variedad de puntas adaptadas para los distintos tipos de obstrucciones en el interior de la cañería.¿
+    2. Estas sondas son empujadas por la fuerza mecánica de una máquina desobstructora rotativa eléctrica, logrando extraer el tapón que se encuentra en el interior o bien disolviendo la obstrucción, permitiendo el drenaje del agua en la cañería hacia el colector municipal de salida.¿
+    3. Dejamos correr el agua durante 10 (diez) minutos tiempo suficiente para confirmar la finalización del servicio.¿
+    4.  Caso contrario, si nos encontramos con un problema habitual y persistente en la cañería, introducimos una cámara de video inspección en el interior que nos permite filmar y diagnosticar el estado de la cañería en cuestión. Con este equipo podremos ver roturas, fisuras y otras anomalías que presenten los caños.¿¿
+    Gracias por seguir confiando en nuestros servicios!¿¿
+(Consultenos!)
+</desarrollo>
+</noticia>    
+    
+    
+    
+<noticia>
+<id>9</id>
+<link>ampliar_novedad.php?op=9</link>
+<foto1>retiro-residuos-especiales-en-fuerza-aerea-argentina.mp4</foto1>
+<video>1</video>
+<titulo>>Fuerza Aérea Argentina</titulo>
+<tags>Deysa, Residuos Especiales, Fuerza Aérea Argentina</tags>
+<dia>01</dia>
+<mes>12</mes>
+<año>2020</año>
+<bajada></bajada>
+<desarrollo>
+En esta oportunidad, nos encontramos realizando el TRANSPORTE Y DISPOSICIÓN FINAL DE RESIDUOS LÍQUIDOS, SEMISÓLIDOS Y SÓLIDOS PELIGROSOS, en todas las unidades de Fuerza Aérea Argentina “Departamento de Contrataciones Cóndor”.¿
+Recorriendo las provincias del interior de nuestro país, Santa Cruz, Córdoba, Mendoza, San Luis, Paraná, Buenos Aires y C.A.B.A.¿
+Realizando los servicios de retiros de residuos:¿¿
+    • Retiro de hidrocarburos líquidos y sólidos (y8).¿
+    • Sólidos con hidrocarburos Y48/Y8.¿
+    • Baterías Y34/ Y31.¿
+    • Agua con hidrocarburos (y9)¿
+    • Productos químicos (y16)¿
+    • Gracias por seguir confiando en nuestros servicios!¿¿
+(Consultenos!)
+</desarrollo>
+</noticia>    
+
+<noticia>
+<id>8</id>
+<link>ampliar_novedad.php?op=8</link>
+<foto1>sistema-hidrojet.jpg</foto1>
+<video>0</video>
+<titulo>Limpieza con Sistema Hidrojet</titulo>
+<tags>Deysa, sistema Hidrojet</tags>
+<dia>12</dia>
+<mes>09</mes>
+<año>2020</año>
+<bajada></bajada>
+<desarrollo>
+La limpieza con sistema hidrojet utiliza la velocidad del agua a presión para literalmente destruir y remover obstrucciones. Estos taponamientos son provocados por corrosión, grasa, tierra o arena, adherida a las paredes internas de las tuberías.¿¿
+Principales características de destapaciones con Hidrojet:¿
+No deteriora ni rompe el interior de las cañerías por más frágil que sea el material que la compone (cementicios, cerámicos, hierro fundido, etc.)¿
+La manguera ingresa como una flecha en el interior de la cañería. Llimpia el interior de la cañería recuperando el diámetro interno de la misma desalojando adherencias.¿
+Los deshechos desincrustados de las paredes de las cañerías y los taponamientos son barridos hacia la cámara de acceso o hacia los colectores terminando definitivamente con el problema.¿¿
+El sistema Hidrojet es considerado el más eficiente entre los sistemas de Desobstrucción y limpieza de cañerías. Debido a la utilización de agua a alta presión y caudal como agente desobstructor.¿¿
+Teniendo en cuenta que los sistemas Hidrojet cumplen diferentes funciones. Por ejemplo, existen diversas formas de afrontar una limpieza en la cañería; si esta contiene barros o sedimentos pesados, se optará por utilizar un mayor caudal de agua para poder barrer los sedimentos del interior. En cambio, si lo que se requiere es romper y destapar, se recurirá más a la presión que ejerce, pero con menor caudal de agua por minuto.¿¿
+Para más información de estos efectivos sistemas de limpieza, y destapaciones hidrocinéticas, no dudes en ponerte en contacto con nosotros!
+</desarrollo>
+</noticia>
+    
+<noticia>
+<id>7</id>
+<link>ampliar_novedad.php?op=7</link>
+<foto1>deysa-gendarmeria-refaccion-vestuarios.jpg</foto1>
+<video>0</video>
+<titulo>Refacción en vestuarios de Gendarmería Nacional</titulo>
+<tags>Deysa, Gendarmeria Nacional Argentina</tags>
+<dia>01</dia>
+<mes>08</mes>
+<año>2020</año>
+<bajada></bajada>
+<desarrollo>
+Desde DEYSA, de la mano de nuestros aliados comerciales, proveedores y clientes, nos orientamos en cuidar a las personas ayudándonos entre todos. 
+No obstante, en los difíciles tiempos que estamos atravesando, es extremadamente gratificante resaltar que con mucho esfuerzo hemos podido sortear las dificultades socioeconómicas que enfrenta nuestra sociedad en su conjunto, finalizando en tiempo y forma los trabajos contratados y compromisos asumidos, brindando de esta forma, seguridad a quienes confían en nosotros en todos los aspectos. 
+En DEYSA, hacemos que todo fluya.
+¿¿(Consultenos!)
+</desarrollo>
+</noticia>
+    
+    
+<noticia>
+<id>6</id>
+<link>ampliar_novedad.php?op=6</link>
+<foto1>ubicacion-trampas-de-grasa.jpg</foto1>
+<video>0</video>
+<titulo>>¿DONDE CONVIENE UBICAR LA TRAMPA DE GRASA EN LAS INSTALACIONES DE SU EMPRESA?</titulo>
+<tags>Deysa, trampa de grasa</tags>
+<dia>10</dia>
+<mes>06</mes>
+<año>2020</año>
+<bajada></bajada>
+<desarrollo>
+Preferentemente es mejor ubicarlas en sectores externos a las instalaciones. Esto permite un adecuado y fácil mantenimiento. Así como también evita la contaminación (olores nauseabundos) dentro del lugar. Esto puede parecer muy evidente. Pero a menudo vemos que, aun contando con espacios externos, construyen las cámaras sépticas dentro de las instalaciones, evitando las extensiones de cañerías hacia el exterior.
+También hay que destacar que las trampas de grasas deben colocarse antes del desagüe de los residuos higiénicos.. Tal vez este sea uno de los motivos por los cuales, en ocasiones no puede instalarse una cámara en el exterior de los sectores de producción. Esto evitará que tal residuo desagüe en la red de los colectores principales, evitando la contaminación y la alteración de los resultados de líquidos residuales.¿¿
+•Gracias por seguir confiando en nuestros servicios!¿¿
+(Consultenos!)
+</desarrollo>
+</noticia>
+
+
+
+
+
+<noticia>
+<id>5</id>
+<link>ampliar_novedad.php?op=5</link>
+<foto1>deysa-vital-pilar.mp4</foto1>
+<video>1</video>
+<titulo>>En VITAL Pilar</titulo>
+<tags>Deysa, Supermercados VITAL</tags>
+<dia>28</dia>
+<mes>04</mes>
+<año>2020</año>
+<bajada></bajada>
+<desarrollo>
+•Seguimos realizando limpiezas a fondo en cañerías, decantadores de barros y pozos de bombeo de aguas residuales.¿
+•En esta oportunidad trabajando para las sucursales de Supermercados VITAL.¿
+•Gracias por seguir confiando en nuestros servicios!¿¿
+(Consultenos!)
+</desarrollo>
+</noticia>
+  
+<noticia>
+<id>4</id>
+<link>ampliar_novedad.php?op=4</link>
+<foto1>pozos-de-bombeo.jpg</foto1>
+<video>0</video>
+<titulo>>Pozos de Bombeo</titulo>
+<tags>pozos de bombeo, aguas sucias</tags>
+<dia>27</dia>
+<mes>03</mes>
+<año>2020</año>
+<bajada>Los pozos de bombeo para aguas sucias son sistemas de elevación...</bajada>
+<desarrollo>
+Los (pozos de bombeo) para aguas sucias son sistemas de elevación, que permiten el traspaso o elevar diferentes tipos de líquidos con una capacidad alta de carga y con bombas adecuadas para la no obturación.¿
+En estos momentos, el pozo de bombeo está acumulando y decantando los residuos provenientes de los líquidos residuales.Poniendo en riesgo el funcionamiento de las bombas de expulsión por el esfuerzo que realiza al querer elevar los líquidos y sólidos en su interior.¿
+Evitar que la bomba de expulsión falle o se queme, depende del mantenimiento y la limpieza del pozo séptico.¿
+¿¿
+(Consultenos!)
+</desarrollo>
+</noticia>
+  
+<noticia>
+<id>3</id>
+<link>ampliar_novedad.php?op=3</link>
+<foto1>transporte-liquidos-residuos-especiales.jpg</foto1>
+<video>0</video>
+<titulo>>Transportamos todo tipo de líquidos residuales</titulo>
+<tags>liquidos residuales, residuos industriales, barros, aceites, deysa</tags>
+<dia>16</dia>
+<mes>03</mes>
+<año>2020</año>
+<bajada>Transporte de Líquidos Residuales y Líquidos Especiales</bajada>
+<desarrollo>
+(Líquidos Residuales:)¿
+Residuales líquidos o aguas residuales definidos como la combinación de agua y deshechos provenientes de empresas, instituciones públicas, parques industriales, agropecuarios, comerciales y catering, los cuales añadiendo agua suelen transformarse en residuos líquidos, separados principalmente en dos categorías.  
+#
+(Líquidos Especiales:)¿
+Desechos de aceites minerales no aptos para el uso que estaban destinados¿
+Mezclas y emulsiones de desecho de aceite y agua o de hidrocarburos y agua¿
+Todo residuo inorgánico¿
+Líquidos no Especiales: Líquidos o semisólidos derivados de grasas orgánicas, efluentes cloacales y barros pluviales- Todo residuo orgánico.¿¿
+(Consultenos!)
+</desarrollo>
+</noticia>
+  
+<noticia>
+<id>2</id>
+<link>ampliar_novedad.php?op=2</link>
+<foto1>camionatmosferico.jpg</foto1>
+<video>0</video>
+<titulo>>Descuentos en Servicios con Camión Atmosférico</titulo>
+<tags>camion atmosferico, camion desobstructor, deysa</tags>
+<dia>22</dia>
+<mes>01</mes>
+<año>2020</año>
+<bajada>Promoción ENERO y FEBRERO 2020</bajada>
+<desarrollo>Durante el mes de enero y febrero del 2020, estamos ofreciendo un 20% de descuentos en los servicios realizados con CAMIÓN ATMOSFÉRICO y bonificaciones en hidrolavados a presión de agua múltiple.# Pónganse en contacto con nosotros para mas promociones en desobstrucción y limpieza de cañerías con CAMIÓN DESOBSTRUCTOR de gran presión.#
+(Consultenos!)
+</desarrollo>
+</noticia>
+  
+<noticia>
+<id>1</id>
+<link>ampliar_novedad.php?op=1</link>
+<foto1>trampadegrasa.jpg</foto1>
+<video>0</video>
+<titulo>Revisando las Trampas de Grasa</titulo>
+<tags>trampas de grasa, destapar trampas de grasa, tag3</tags>
+<dia>21</dia>
+<mes>01</mes>
+<año>2020</año>
+<bajada>Como lograr el óptimo funcionamiento de una Trampa de Grasa?</bajada>
+<desarrollo>
+Al no revisarse periódicamente, los residuos sólidos comienzan a filtrarse, bloqueando la cámara séptica, transformándose en un pozo inservible.#
+
+Al momento de ingresar los nuevos líquidos a la trampa de grasa, no pasarán por el proceso de contención y los líquidos residuales fluyen hacia los desagües. Con el tiempo los desagües comienzan a taponarse, reduciendo el caudal del caño de salida. En resumen la empresa deberá incurrir en gastos de limpiezas de cañerías por no evitar la prevención de la cámara séptica.#
+
+- Realiza nuestras indicaciones para el correcto funcionamiento en la trampa de grasas y aceites.¿
+- Revisa los niveles de grasa, aceites y sólidos en la cámara séptica de forma regular. En la superficie no debe tener una capa con gran espesor de sólidos.¿
+- Coloca bacterias para tratamiento de microorganismos, que realenticen la acumulacion de grasas. Es importante destacar que en varias ocasiones el mismo caudal de agua que ingresa, se lleva las bacterias por las tuberías de drenaje de la trampa.¿
+- El nivel de líquido residual que ingresa en la trampa de grasa, debe ser el mismo nivel para el cual fue diseñado el decantador de los residuos.?
+- No realizar descargas rápidas o grandes volúmenes de líquidos residuales.¿
+- Las temperaturas de los líquidos residuales no deben superar los 40 º.#
+Las buenas prácticas de trabajo, también ayudarán al cuidado del mantenimiento:¿
+- No desechar aceites en las piletas de mano.¿
+- No arrojar desperdicios sólidos en los fregaderos y piletas.#
+(Consultenos!)
+</desarrollo>
+</noticia>
+  
+</noticias>
